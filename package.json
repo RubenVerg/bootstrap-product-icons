@@ -5,9 +5,10 @@
 	"version": "1.0.0",
 	"publisher": "rubenverg",
 	"repository": {
-		
+		"url": "https://github.com/RubenVerg/bootstrap-product-icons.git",
+		"type": "git"
 	},
-	"icon": "./icon.png",
+	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.53.0"
 	},
