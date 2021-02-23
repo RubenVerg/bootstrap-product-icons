@@ -1,0 +1,27 @@
+{
+	"name": "bootstrap-product-icons",
+	"displayName": "Bootstrap Product Icons",
+	"description": "Adds Bootstrap Icons as product icons for Code.",
+	"version": "1.0.0",
+	"publisher": "rubenverg",
+	"repository": {
+		
+	},
+	"icon": "./icon.png",
+	"engines": {
+		"vscode": "^1.53.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"productIconThemes": [
+			{
+				"id": "bootstrap-product-icons",
+				"label": "Bootstrap Icons",
+				"path": "./icons/bootstrap-product-icon-theme.json"
+			}
+		]
+	},
+	"license": "MIT"
+}
